@@ -1,0 +1,21 @@
+// students.json
+[
+  {
+    "id": 1,
+    "name": "Ahmed",
+    "age": 20,
+    "grade": "A"
+  },
+  {
+    "id": 2,
+    "name": "Sara",
+    "age": 22,
+    "grade": "B"
+  },
+  {
+    "id": 3,
+    "name": "Ali",
+    "age": 19,
+    "grade": "C"
+  }
+]
