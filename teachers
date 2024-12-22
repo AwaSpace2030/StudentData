@@ -19,14 +19,6 @@
   {"id": 1018, "name": "Nadia Said", "subject": "Social Studies", "experience": 6, "email": "nadia.said@example.com", "username": "nadia_said", "password": "socialpass321", "role": "admin", "salary": "12000"},
   {"id": 1019, "name": "Ramy Abdallah", "subject": "Geography", "experience": 8, "email": "ramy.abdallah@example.com", "username": "ramy_abdallah", "password": "geopass123", "role": "admin", "salary": "13500"},
   {"id": 1020, "name": "Mai Alaa", "subject": "Biology", "experience": 4, "email": "mai.alaa@example.com", "username": "mai_alaa", "password": "biopass456", "role": "admin", "salary": "11000"},
-  {"id": 1021, "username": "TestUser1", "password": "102030", "role": "user", "email": "testuser1@example.com", "subject": "N/A", "salary": "4500"},
-  {"id": 1022, "username": "Lina Youssef", "password": "102030", "role": "user", "email": "lina.youssef@example.com", "subject": "N/A", "salary": "4700"},
-  {"id": 1023, "username": "Omar Khaled", "password": "102030", "role": "user", "email": "omar.khaled@example.com", "subject": "N/A", "salary": "4900"},
-  {"id": 1024, "username": "Maya Ali", "password": "102030", "role": "user", "email": "maya.ali@example.com", "subject": "N/A", "salary": "4600"},
-  {"id": 1025, "username": "Ahmed Nabil", "password": "102030", "role": "user", "email": "ahmed.nabil@example.com", "subject": "N/A", "salary": "4800"},
-  {"id": 1026, "username": "Khaled Ahmed", "password": "102030", "role": "user", "email": "khaled.ahmed@example.com", "subject": "N/A", "salary": "4900"},
-  {"id": 1027, "username": "Zahra Youssef", "password": "102030", "role": "user", "email": "zahra.youssef@example.com", "subject": "N/A", "salary": "5100"},
-  {"id": 1028, "username": "Khalil Sami", "password": "2030", "role": "user", "email": "khalil.sami@example.com", "subject": "N/A", "salary": "5300"},
-  {"id": 1029, "username": "Laila Nabil", "password": "123321", "email": "laila.nabil@example.com", "subject": "Geography", "salary": "6000", "role": "user"},
-  {"id": 1030, "username": "Mariam Khaled", "password": "123321456654", "email": "mariam.khaled@example.com", "subject": "Math", "salary": "7000", "role": "user"}
+
+
 ]
