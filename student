@@ -1,102 +1,102 @@
 [
   {
     "id": 1001,
-    "name": "Ahmed Mohamed",
-    "email": "ahmed.mohamed@example.com",
-    "annualFees": 2500,
-    "level": "Beginner",
-    "scorePercentage": 85,
-    "address": "Cairo, Egypt",
-    "image": "./images/ahmed-mohamed.jpg"
+    "name": "Ahmed Al-Saleh",
+    "email": "ahmed.saleh@example.com",
+    "annualFees": 5000,
+    "level": "Undergraduate",
+    "rating": 85,
+    "address": "123 Main St, Cairo, Egypt",
+    "photo": "./assets/StudentPhoto/ahmed_al_saleh.png"
   },
   {
     "id": 1002,
-    "name": "Sara Ali",
-    "email": "sara.ali@example.com",
-    "annualFees": 2700,
-    "level": "Intermediate",
-    "scorePercentage": 90,
-    "address": "Alexandria, Egypt",
-    "image": "./images/sara-ali.jpg"
+    "name": "Sara Khaled",
+    "email": "sara.khaled@example.com",
+    "annualFees": 4500,
+    "level": "Postgraduate",
+    "rating": 90,
+    "address": "456 Elm St, Cairo, Egypt",
+    "photo": "./assets/StudentPhoto/sara_khaled.png"
   },
   {
     "id": 1003,
-    "name": "Ali Khaled",
-    "email": "ali.khaled@example.com",
-    "annualFees": 2300,
-    "level": "Advanced",
-    "scorePercentage": 88,
-    "address": "Giza, Egypt",
-    "image": "./images/ali-khaled.jpg"
+    "name": "Ali Hassan",
+    "email": "ali.hassan@example.com",
+    "annualFees": 4800,
+    "level": "Undergraduate",
+    "rating": 78,
+    "address": "789 Oak St, Cairo, Egypt",
+    "photo": "./assets/StudentPhoto/ali_hassan.png"
   },
   {
     "id": 1004,
-    "name": "Mona Youssef",
-    "email": "mona.youssef@example.com",
-    "annualFees": 2400,
-    "level": "Beginner",
-    "scorePercentage": 78,
-    "address": "Luxor, Egypt",
-    "image": "./images/mona-youssef.jpg"
+    "name": "Mona Fathi",
+    "email": "mona.fathi@example.com",
+    "annualFees": 5200,
+    "level": "Postgraduate",
+    "rating": 88,
+    "address": "101 Pine St, Cairo, Egypt",
+    "photo": "./assets/StudentPhoto/mona_fathi.png"
   },
   {
     "id": 1005,
-    "name": "Khaled Ahmed",
-    "email": "khaled.ahmed@example.com",
-    "annualFees": 2600,
-    "level": "Intermediate",
-    "scorePercentage": 92,
-    "address": "Aswan, Egypt",
-    "image": "./images/khaled-ahmed.jpg"
+    "name": "Tariq Youssef",
+    "email": "tariq.youssef@example.com",
+    "annualFees": 5100,
+    "level": "Undergraduate",
+    "rating": 80,
+    "address": "202 Cedar St, Cairo, Egypt",
+    "photo": "./assets/StudentPhoto/tariq_youssef.png"
   },
   {
     "id": 1006,
-    "name": "Yasmine Hassan",
-    "email": "yasmine.hassan@example.com",
-    "annualFees": 2500,
-    "level": "Advanced",
-    "scorePercentage": 89,
-    "address": "Cairo, Egypt",
-    "image": "./images/yasmine-hassan.jpg"
+    "name": "Lina Ahmed",
+    "email": "lina.ahmed@example.com",
+    "annualFees": 5300,
+    "level": "Postgraduate",
+    "rating": 92,
+    "address": "303 Maple St, Cairo, Egypt",
+    "photo": "./assets/StudentPhoto/lina_ahmed.png"
   },
   {
     "id": 1007,
-    "name": "Hassan Ali",
-    "email": "hassan.ali@example.com",
-    "annualFees": 2200,
-    "level": "Beginner",
-    "scorePercentage": 75,
-    "address": "Mansoura, Egypt",
-    "image": "./images/hassan-ali.jpg"
+    "name": "Omar Mostafa",
+    "email": "omar.mostafa@example.com",
+    "annualFees": 4700,
+    "level": "Undergraduate",
+    "rating": 83,
+    "address": "404 Birch St, Cairo, Egypt",
+    "photo": "./assets/StudentPhoto/omar_mostafa.png"
   },
   {
     "id": 1008,
-    "name": "Aya Mostafa",
-    "email": "aya.mostafa@example.com",
-    "annualFees": 2450,
-    "level": "Intermediate",
-    "scorePercentage": 88,
-    "address": "Tanta, Egypt",
-    "image": "./images/aya-mostafa.jpg"
+    "name": "Fatima Ali",
+    "email": "fatima.ali@example.com",
+    "annualFees": 4900,
+    "level": "Postgraduate",
+    "rating": 87,
+    "address": "505 Walnut St, Cairo, Egypt",
+    "photo": "./assets/StudentPhoto/fatima_ali.png"
   },
   {
     "id": 1009,
-    "name": "Omar Saleh",
-    "email": "omar.saleh@example.com",
-    "annualFees": 2550,
-    "level": "Advanced",
-    "scorePercentage": 91,
-    "address": "Suez, Egypt",
-    "image": "./images/omar-saleh.jpg"
+    "name": "Youssef Fayed",
+    "email": "youssef.fayed@example.com",
+    "annualFees": 5600,
+    "level": "Undergraduate",
+    "rating": 95,
+    "address": "606 Chestnut St, Cairo, Egypt",
+    "photo": "./assets/StudentPhoto/youssef_fayed.png"
   },
   {
     "id": 1010,
-    "name": "Reem Adel",
-    "email": "reem.adel@example.com",
-    "annualFees": 2350,
-    "level": "Beginner",
-    "scorePercentage": 80,
-    "address": "Fayoum, Egypt",
-    "image": "./images/reem-adel.jpg"
+    "name": "Jamal Khalil",
+    "email": "jamal.khalil@example.com",
+    "annualFees": 5500,
+    "level": "Postgraduate",
+    "rating": 93,
+    "address": "707 Fir St, Cairo, Egypt",
+    "photo": "./assets/StudentPhoto/jamal_khalil.png"
   }
 ]
