@@ -1,21 +1,102 @@
-// students.json
 [
   {
-    "id": 1,
-    "name": "Ahmed",
-    "age": 20,
-    "grade": "A"
+    "id": 1001,
+    "name": "Ahmed Mohamed",
+    "email": "ahmed.mohamed@example.com",
+    "annualFees": 2500,
+    "level": "Beginner",
+    "scorePercentage": 85,
+    "address": "Cairo, Egypt",
+    "image": "./images/ahmed-mohamed.jpg"
   },
   {
-    "id": 2,
-    "name": "Sara",
-    "age": 22,
-    "grade": "B"
+    "id": 1002,
+    "name": "Sara Ali",
+    "email": "sara.ali@example.com",
+    "annualFees": 2700,
+    "level": "Intermediate",
+    "scorePercentage": 90,
+    "address": "Alexandria, Egypt",
+    "image": "./images/sara-ali.jpg"
   },
   {
-    "id": 3,
-    "name": "Ali",
-    "age": 19,
-    "grade": "C"
+    "id": 1003,
+    "name": "Ali Khaled",
+    "email": "ali.khaled@example.com",
+    "annualFees": 2300,
+    "level": "Advanced",
+    "scorePercentage": 88,
+    "address": "Giza, Egypt",
+    "image": "./images/ali-khaled.jpg"
+  },
+  {
+    "id": 1004,
+    "name": "Mona Youssef",
+    "email": "mona.youssef@example.com",
+    "annualFees": 2400,
+    "level": "Beginner",
+    "scorePercentage": 78,
+    "address": "Luxor, Egypt",
+    "image": "./images/mona-youssef.jpg"
+  },
+  {
+    "id": 1005,
+    "name": "Khaled Ahmed",
+    "email": "khaled.ahmed@example.com",
+    "annualFees": 2600,
+    "level": "Intermediate",
+    "scorePercentage": 92,
+    "address": "Aswan, Egypt",
+    "image": "./images/khaled-ahmed.jpg"
+  },
+  {
+    "id": 1006,
+    "name": "Yasmine Hassan",
+    "email": "yasmine.hassan@example.com",
+    "annualFees": 2500,
+    "level": "Advanced",
+    "scorePercentage": 89,
+    "address": "Cairo, Egypt",
+    "image": "./images/yasmine-hassan.jpg"
+  },
+  {
+    "id": 1007,
+    "name": "Hassan Ali",
+    "email": "hassan.ali@example.com",
+    "annualFees": 2200,
+    "level": "Beginner",
+    "scorePercentage": 75,
+    "address": "Mansoura, Egypt",
+    "image": "./images/hassan-ali.jpg"
+  },
+  {
+    "id": 1008,
+    "name": "Aya Mostafa",
+    "email": "aya.mostafa@example.com",
+    "annualFees": 2450,
+    "level": "Intermediate",
+    "scorePercentage": 88,
+    "address": "Tanta, Egypt",
+    "image": "./images/aya-mostafa.jpg"
+  },
+  {
+    "id": 1009,
+    "name": "Omar Saleh",
+    "email": "omar.saleh@example.com",
+    "annualFees": 2550,
+    "level": "Advanced",
+    "scorePercentage": 91,
+    "address": "Suez, Egypt",
+    "image": "./images/omar-saleh.jpg"
+  },
+  {
+    "id": 1010,
+    "name": "Reem Adel",
+    "email": "reem.adel@example.com",
+    "annualFees": 2350,
+    "level": "Beginner",
+    "scorePercentage": 80,
+    "address": "Fayoum, Egypt",
+    "image": "./images/reem-adel.jpg"
   }
 ]
