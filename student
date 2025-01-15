@@ -7,7 +7,7 @@
     "level": "Undergraduate",
     "rating": 85,
     "address": "123 Main St, Cairo, Egypt",
-    "photo": "./assets/StudentPhoto/ahmed_al_saleh.png"
+    "photo": "../assets/StudentPhoto/ahmed_al_saleh.png"
   },
   {
     "id": 1002,
