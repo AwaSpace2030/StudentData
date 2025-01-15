@@ -17,7 +17,7 @@
     "level": "Postgraduate",
     "rating": 90,
     "address": "456 Elm St, Cairo, Egypt",
-    "photo": "./assets/StudentPhoto/sara_khaled.png"
+    "photo": "../assets/StudentPhoto/sara_khaled.png"
   },
   {
     "id": 1003,
@@ -27,7 +27,7 @@
     "level": "Undergraduate",
     "rating": 78,
     "address": "789 Oak St, Cairo, Egypt",
-    "photo": "./assets/StudentPhoto/ali_hassan.png"
+    "photo": "../assets/StudentPhoto/ali_hassan.png"
   },
   {
     "id": 1004,
@@ -37,7 +37,7 @@
     "level": "Postgraduate",
     "rating": 88,
     "address": "101 Pine St, Cairo, Egypt",
-    "photo": "./assets/StudentPhoto/mona_fathi.png"
+    "photo": "../assets/StudentPhoto/mona_fathi.png"
   },
   {
     "id": 1005,
@@ -47,7 +47,7 @@
     "level": "Undergraduate",
     "rating": 80,
     "address": "202 Cedar St, Cairo, Egypt",
-    "photo": "./assets/StudentPhoto/tariq_youssef.png"
+    "photo": "../assets/StudentPhoto/tariq_youssef.png"
   },
   {
     "id": 1006,
@@ -57,7 +57,7 @@
     "level": "Postgraduate",
     "rating": 92,
     "address": "303 Maple St, Cairo, Egypt",
-    "photo": "./assets/StudentPhoto/lina_ahmed.png"
+    "photo": "../assets/StudentPhoto/lina_ahmed.png"
   },
   {
     "id": 1007,
@@ -67,7 +67,7 @@
     "level": "Undergraduate",
     "rating": 83,
     "address": "404 Birch St, Cairo, Egypt",
-    "photo": "./assets/StudentPhoto/omar_mostafa.png"
+    "photo": "../assets/StudentPhoto/omar_mostafa.png"
   },
   {
     "id": 1008,
@@ -77,7 +77,7 @@
     "level": "Postgraduate",
     "rating": 87,
     "address": "505 Walnut St, Cairo, Egypt",
-    "photo": "./assets/StudentPhoto/fatima_ali.png"
+    "photo": "../assets/StudentPhoto/fatima_ali.png"
   },
   {
     "id": 1009,
@@ -87,7 +87,7 @@
     "level": "Undergraduate",
     "rating": 95,
     "address": "606 Chestnut St, Cairo, Egypt",
-    "photo": "./assets/StudentPhoto/youssef_fayed.png"
+    "photo": "../assets/StudentPhoto/youssef_fayed.png"
   },
   {
     "id": 1010,
@@ -97,6 +97,6 @@
     "level": "Postgraduate",
     "rating": 93,
     "address": "707 Fir St, Cairo, Egypt",
-    "photo": "./assets/StudentPhoto/jamal_khalil.png"
+    "photo": "../assets/StudentPhoto/jamal_khalil.png"
   }
 ]
